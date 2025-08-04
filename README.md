@@ -1,0 +1,1 @@
+This guided projects make a CI/CD pipeline using AWS CodeDeploy and CodePipeline to deploy a sample store front page. It pulls the configuration script from github and launches it on an ec2 that was provisioned. 
